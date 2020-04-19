@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Combo Leite e Mel Alcool em Gel com Capinha",
+        "value": 31.8, 
+        "code": "021", 
+        "date": "2020-04-19", 
+        "cashbackPercentage": 20,
+        "status": "Em validação"
+    },
+    {
+        "name": "Connexion Desodarante Colônia 100ml",
+        "value": 97.9, 
+        "code": "123", 
+        "date": "2020-04-19", 
+        "cashbackPercentage": 10,
+        "status": "Reprovado"
+    },
+    {
+        "name": "Cuide-Se Bem Deleite Álcool em Gel, 30g",
+        "value": 18.9, 
+        "code": "456", 
+        "date": "2020-04-19", 
+        "cashbackPercentage": 5,
+        "status": "Aprovado"
+    },
+    {
+        "name": "Combo Nativa SPA Caviar Reparação dos Fios",
+        "value": 86.8, 
+        "code": "789", 
+        "date": "2020-04-19", 
+        "cashbackPercentage": 15,
+        "status": "Aprovado"
+    },
+    {
+        "name": "Malbec Vlub Shampoo Para Barba, 100ml",
+        "value": 29.9, 
+        "code": "321", 
+        "date": "2020-04-19", 
+        "cashbackPercentage": 5,
+        "status": "Em validação"
+    }
+]
